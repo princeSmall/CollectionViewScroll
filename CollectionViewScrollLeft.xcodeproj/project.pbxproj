@@ -14,6 +14,7 @@
 		5D750D8625184CDE0041CD2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D750D8525184CDE0041CD2A /* Assets.xcassets */; };
 		5D750D8925184CDE0041CD2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D750D8725184CDE0041CD2A /* LaunchScreen.storyboard */; };
 		5D750D8C25184CDE0041CD2A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D750D8B25184CDE0041CD2A /* main.m */; };
+		5D751094251852E90041CD2A /* UICollectionViewLeftFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D751093251852E90041CD2A /* UICollectionViewLeftFlowLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		5D750D8825184CDE0041CD2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D750D8A25184CDE0041CD2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D750D8B25184CDE0041CD2A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5D751092251852E90041CD2A /* UICollectionViewLeftFlowLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UICollectionViewLeftFlowLayout.h; sourceTree = "<group>"; };
+		5D751093251852E90041CD2A /* UICollectionViewLeftFlowLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UICollectionViewLeftFlowLayout.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				5D750D7D25184CD80041CD2A /* SceneDelegate.m */,
 				5D750D7F25184CD80041CD2A /* ViewController.h */,
 				5D750D8025184CD80041CD2A /* ViewController.m */,
+				5D751092251852E90041CD2A /* UICollectionViewLeftFlowLayout.h */,
+				5D751093251852E90041CD2A /* UICollectionViewLeftFlowLayout.m */,
 				5D750D8225184CD80041CD2A /* Main.storyboard */,
 				5D750D8525184CDE0041CD2A /* Assets.xcassets */,
 				5D750D8725184CDE0041CD2A /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 				5D750D8125184CD80041CD2A /* ViewController.m in Sources */,
 				5D750D7B25184CD80041CD2A /* AppDelegate.m in Sources */,
 				5D750D8C25184CDE0041CD2A /* main.m in Sources */,
+				5D751094251852E90041CD2A /* UICollectionViewLeftFlowLayout.m in Sources */,
 				5D750D7E25184CD80041CD2A /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
